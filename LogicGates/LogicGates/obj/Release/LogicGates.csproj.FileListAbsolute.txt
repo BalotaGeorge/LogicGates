@@ -1,0 +1,9 @@
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\bin\Release\LogicGates.exe.config
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\bin\Release\LogicGates.exe
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\bin\Release\LogicGates.pdb
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.csprojAssemblyReference.cache
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.LGV.resources
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.Properties.Resources.resources
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.csproj.GenerateResource.cache
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.exe
+C:\AnyThingElse\PB VS C#\LogicGates\LogicGates\obj\Release\LogicGates.pdb
